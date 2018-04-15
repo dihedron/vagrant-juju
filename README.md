@@ -1,2 +1,2 @@
 # vagrant-juju
-A vagrant recièe to setup a VM running Juju (www.jujucharms.org)
+A vagrant recipe to setup a VM running Juju (www.jujucharms.org)
